@@ -28,7 +28,7 @@ if (isset($_POST['send'])) {
             echo "<h3 class='error'>Ocurrió un error</h3>";
         }
     } else {
-        echo "<h3 class='error'>Llena todos los campos</h3>";
+        echo "<h3 class='error'>Llena todos los campos por fis!</h3>";
     }
 }
 ?>
